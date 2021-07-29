@@ -1,0 +1,461 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 675,
+      "max": [
+        0.0930899977684021,
+        0.074850000441074371,
+        0.086079999804496765
+      ],
+      "min": [
+        -0.086410000920295715,
+        -0.082780003547668457,
+        -0.068740002810955048
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8100,
+      "componentType": 5126,
+      "count": 675,
+      "max": [
+        0.99929916858673096,
+        0.99434983730316162,
+        0.99765944480895996
+      ],
+      "min": [
+        -0.96879154443740845,
+        -0.99537414312362671,
+        -0.98521149158477783
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 675,
+      "max": [
+        0.86166459321975708,
+        0.9993399977684021,
+        0.99534934759140015,
+        1
+      ],
+      "min": [
+        -0.99048155546188354,
+        -0.99750053882598877,
+        -0.99883395433425903,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 675,
+      "max": [
+        0.98690998554229736,
+        0.97627002000808716
+      ],
+      "min": [
+        0.01971999928355217,
+        0.017470000311732292
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5400,
+      "componentType": 5126,
+      "count": 675,
+      "max": [
+        0.98690998554229736,
+        0.97627002000808716
+      ],
+      "min": [
+        0.01971999928355217,
+        0.017470000311732292
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2904,
+      "max": [
+        674
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16200,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        -0.050069998949766159,
+        0.059200000017881393,
+        0.0023000000510364771
+      ],
+      "min": [
+        -0.094420000910758972,
+        -0.065360002219676971,
+        -0.071809999644756317
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18384,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        0.99813246726989746,
+        0.97413021326065063,
+        0.98127394914627075
+      ],
+      "min": [
+        -0.99439066648483276,
+        -0.78711652755737305,
+        -0.94782018661499023
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 10800,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        0.96455579996109009,
+        0.96143198013305664,
+        0.98882508277893066,
+        1
+      ],
+      "min": [
+        -0.98333680629730225,
+        -0.98508965969085693,
+        -0.99679988622665405,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10800,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        0.947409987449646,
+        0.89586997032165527
+      ],
+      "min": [
+        0.42410001158714294,
+        0.17877000570297241
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12256,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        0.947409987449646,
+        0.89586997032165527
+      ],
+      "min": [
+        0.42410001158714294,
+        0.17877000570297241
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11616,
+      "componentType": 5125,
+      "count": 816,
+      "max": [
+        181
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "visualdimension (https://sketchfab.com/visualdimension)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wooden-tankard-16th-century-b9e9100813a84de8871adb9547e5800a",
+      "title": "Wooden tankard - 16th century"
+    },
+    "generator": "Sketchfab-6.6.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 14880,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13712,
+      "byteOffset": 14880,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20568,
+      "byteOffset": 28592,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13712,
+      "byteOffset": 49160,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 62872,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/tankard_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/tankard_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/tankard_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "tankard",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "MaryRoseTankard_100kMesh_recontour.003_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "MaryRoseTankard_100kMesh_recontour.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.43641000000000008,
+        -0.10794000000000001,
+        -0.8932500000000001,
+        0,
+        -0.17166000000000001,
+        0.98452999999999991,
+        -0.035110000000000009,
+        0,
+        0.88322000000000012,
+        0.13801000000000002,
+        -0.44819000000000003,
+        0,
+        0.0019500000000000008,
+        -0.013480000000000002,
+        0.074310000000000001,
+        1
+      ],
+      "name": "MaryRoseTankard_100kMesh_recontour.003"
+    },
+    {
+      "mesh": 0,
+      "name": "MaryRoseTankard_100kMesh_recontour.003_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.00038000000000000013,
+        -0.043740000000000008,
+        0.065110000000000015,
+        0,
+        -0.07844000000000001,
+        -0.00068000000000000016,
+        0,
+        0,
+        0.00056000000000000017,
+        -0.065110000000000015,
+        -0.043740000000000008,
+        0,
+        0.0023300000000000005,
+        -0.060590000000000012,
+        0.15395000000000003,
+        1
+      ],
+      "name": "Empty.002"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        -1.32785,
+        5.5754200000000003,
+        -11.387890000000001,
+        0,
+        12.570119999999999,
+        2.0794899999999998,
+        -0.44760000000000005,
+        0,
+        1.6617599999999999,
+        -11.274889999999999,
+        -5.7138499999999999,
+        0,
+        0.60060000000000013,
+        -0.00031000000000000011,
+        -1.0151999999999999,
+        1
+      ],
+      "name": "MaryRoseTankard_100kMesh_recontour.001"
+    },
+    {
+      "mesh": 1,
+      "name": "MaryRoseTankard_100kMesh_recontour.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
